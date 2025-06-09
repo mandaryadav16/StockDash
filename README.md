@@ -29,6 +29,3 @@ Generate insightful plots for market performance and business fundamentals.
 
 Click on the “Download Data” button to export the stock’s financials in Excel format.
 
-## Contributions
-
-Contributions are welcome! Please feel free to open an issue or submit a pull request.
