@@ -1,0 +1,7 @@
+requests
+pandas
+numpy
+millify
+plotly
+streamlit==1.40.1
+XlsxWriter
