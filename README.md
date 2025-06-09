@@ -13,16 +13,20 @@ The app uses free tiers of Financial Modeling Prep and Alpha Vantage, which only
 
 ## Usage
 
-###1.Search a Stock
+1.Search a Stock
+
 Enter a valid US stock ticker (e.g., AAPL, MSFT, TSLA) in the search bar.
 
-###2.Analyze Financials
+2.Analyze Financials
+
 Navigate through tabs to explore financial ratios, balance sheets, income statements, and more.
 
-###3.Visualize Trends
+3.Visualize Trends
+
 Generate insightful plots for market performance and business fundamentals.
 
-###4.Download Data
+4.Download Data
+
 Click on the “Download Data” button to export the stock’s financials in Excel format.
 
 ## Contributions
